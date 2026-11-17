@@ -129,3 +129,7 @@ similar content packages — see `docs/custom_language.md` for adding a new lang
   `react-hooks` ruleset.
 - Pre-commit (`husky` + `lint-staged`) runs `prettier --write` + `eslint --fix` on staged
   `js/ts/tsx`, and `prettier --write` + `stylelint --fix` on staged `less/css`.
+
+## Git
+
+- When you finish a change, commit it (split into logical commits when it covers separate concerns).
