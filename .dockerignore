@@ -1,0 +1,13 @@
+.env*
+.claude
+.codex
+node_modules
+**/node_modules
+packages/*/.types
+root/lib
+root/public/assets
+*.tsbuildinfo
+*.log
+tmp
+build
+out
